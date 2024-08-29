@@ -1,1 +1,1 @@
-Ethan Wong's Git repository for CMSI 2210 at LMU 2024-25. 
+Ethan Wong's Git repository for LMU CMSI 2210 Fall 2024.
